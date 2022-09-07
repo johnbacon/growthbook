@@ -114,8 +114,8 @@ const DimensionsPage: FC = () => {
           <div className="col-12">
             <p>
               User Dimensions are attributes of your users - for example,
-              &quot;subscription plan&quot; or &quot;age group&quot;. In Growth
-              Book, you can use these to drill down into experiment results.
+              &quot;subscription plan&quot; or &quot;age group&quot;. In
+              GrowthBook, you can use these to drill down into experiment results.
             </p>
             <table
               className={clsx("table appbox gbtable", {
